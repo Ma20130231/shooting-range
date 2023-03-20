@@ -1,1 +1,1 @@
-# shooting-range
+# project-42
